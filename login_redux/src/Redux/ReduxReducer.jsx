@@ -1,4 +1,3 @@
-import React from "react";
 import { LOGINFAIL, LOGINREQUEST, LOGINSUCCESS } from "./ActionType";
 
 const initialState = {

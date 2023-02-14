@@ -1,4 +1,3 @@
-import React from 'react'
 import { ADD, REDUCE } from './ActionType';
 
 const initialState= {
